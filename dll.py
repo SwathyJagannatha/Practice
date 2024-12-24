@@ -1,4 +1,4 @@
-#This program illustrates an example of singly linked list
+#This program illustrates an example of doubly linked list
 
 class Node(object):
     def __init__(self, data, Next = None, Previous = None):
